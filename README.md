@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaisriyad&label=Profile%20views&color=0e75b6&style=flat" alt="jamaisriyad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamaisriyad" alt="jamaisriyad" /></a> </p>
-
 - 🔭 Je travaille actuellement sur : [La Référence](https://t.me/LaReference)
 
 - 👨‍💻 Tout mes projets sont sur : [https://github.com/jamaisriyad](https://github.com/jamaisriyad)
